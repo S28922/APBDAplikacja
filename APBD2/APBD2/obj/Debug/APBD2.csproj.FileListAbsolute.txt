@@ -1,0 +1,6 @@
+C:\Users\tremb\RiderProjects\APBD2\APBD2\obj\Debug\APBD2.csproj.AssemblyReference.cache
+C:\Users\tremb\RiderProjects\APBD2\APBD2\obj\Debug\APBD2.csproj.CoreCompileInputs.cache
+C:\Users\tremb\RiderProjects\APBD2\APBD2\bin\Debug\APBD2.exe
+C:\Users\tremb\RiderProjects\APBD2\APBD2\bin\Debug\APBD2.pdb
+C:\Users\tremb\RiderProjects\APBD2\APBD2\obj\Debug\APBD2.exe
+C:\Users\tremb\RiderProjects\APBD2\APBD2\obj\Debug\APBD2.pdb
